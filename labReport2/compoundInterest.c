@@ -1,10 +1,11 @@
-#include <stdio.h>
-#include <math.h> // For the pow() function
+//? WAP to find the compound interest
 
+#include <stdio.h>
+#include <math.h>
 int main()
 {
 
-    int n = 1; // Compounding frequency (e.g., annually = 1)
+    int n = 1; //? n = Compounding frequency
 
     float principle, time, rate, amount, compountInterest;
     principle = 4000;
