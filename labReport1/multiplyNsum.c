@@ -1,4 +1,4 @@
-// Write a program to multiply two numbers (10&8) and display its sum.
+// Write a program to multiply two numbers (10 and 8) and display its sum.
 #include <stdio.h>
 int main()
 {
