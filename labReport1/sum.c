@@ -1,3 +1,5 @@
+// Write a program to enter two integers and then display their sum
+
 #include <stdio.h>
 int main()
 {
