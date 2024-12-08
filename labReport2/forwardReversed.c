@@ -9,5 +9,6 @@ int main()
     printf("\n");
     printf("Your input is: %d\t%d\t%d\n", a, b, c);
     printf("Your input in reversed order is: %d\t%d\t%d\n", c, b, a);
-    printf("Program ends here---------------------------------------------------------------- ");
+    // printf("Program ends here---------------------------------------------------------------- ");
+    return 0;
 }

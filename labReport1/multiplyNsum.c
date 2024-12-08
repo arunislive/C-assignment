@@ -3,6 +3,6 @@
 int main()
 {
     int a = 10, b = 8;
-    printf("a = %d, b = %d, a*b = %d. a+b = %d", a, b, a * b, a + b);
+    printf("a = %d, b = %d,\n a*b = %d,\n a+b = %d", a, b, a * b, a + b);
     return 0;
 }

@@ -12,4 +12,5 @@ int main()
     printf("Pre-Decrement is %d", --a);
     printf("Post-Increment is %d", a++);
     printf("Post-Decrement is %d", a--);
+    return 0;
 }
