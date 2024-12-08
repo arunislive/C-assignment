@@ -8,9 +8,9 @@ int main()
     int a;
     printf("Give an initial value");
     scanf("%d", &a);
-    printf("Pre-Increment is %d", ++a);
-    printf("Pre-Decrement is %d", --a);
-    printf("Post-Increment is %d", a++);
-    printf("Post-Decrement is %d", a--);
+    printf("Pre-Increment is %d\n", ++a);
+    printf("Pre-Decrement is %d\n", --a);
+    printf("Post-Increment is %d\n", a++);
+    printf("Post-Decrement is %d\n", a--);
     return 0;
 }
