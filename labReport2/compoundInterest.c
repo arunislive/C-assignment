@@ -8,9 +8,11 @@ int main()
     int n = 1; //? n = Compounding frequency
 
     float principle, time, rate, amount, compountInterest;
-    principle = 4000;
-    rate = 5.5;
-    time = 2;
+    // principle = 4000;
+    // rate = 5.5;
+    // time = 2;
+    printf(" Enter principle, time and rate (rate in percentage):");
+    scanf("%f%f%f", &principle, &rate, &time);
 
     // Convert rate to decimal since rate is on percentage basis
     rate = rate / 100;
