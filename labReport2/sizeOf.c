@@ -14,7 +14,7 @@ int main()
     long double x;
 
     // Print sizes of different data types
-    printf("Size of int: %lu bytes\n", sizeof(i));
+    printf("Size of int: %lu  bytes\n", sizeof(i));
     printf("Size of float: %lu bytes\n", sizeof(f));
     printf("Size of double: %lu bytes\n", sizeof(d));
     printf("Size of char: %lu byte\n", sizeof(c));
